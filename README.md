@@ -1,9 +1,20 @@
 ## 👋Olá eu sou Guilherme Pinheiro dos Santos 
 - 👨‍💻 Programador Back-End
-- 📚 Estudante de Ciência da Computação - Faculdade Impacta
-- 🌱 Atualmente estou aprendendo Java<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="28" height="28" style="vertical-align: middle; padding-left: 0; margin-left: 0;" /> | Spring Boot - Programa ONE
+- 📚 Estudante de Ciência da Computação - Faculdade Impacta Tecnologia
+- 🌱 Atualmente estou aprendendo Java | Spring Boot - Programa ONE
+
+## Tecnologias
 
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="90" height="80" style="vertical-align: middle; padding-left: 0; margin-left: 0;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="90" height="80" style="vertical-align: middle; padding-left: 0; margin-left: 0;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  width="90" height="80" style="vertical-align: middle; padding-left: 0; margin-left: 0;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="90" height="80" style="vertical-align: middle; padding-left: 0; margin-left: 0;"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="90" height="80" style="vertical-align: middle; padding-left: 0; margin-left: 0;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="90" height="80" style="vertical-align: middle; padding-left: 0; margin-left: 0;" />
+          
+          
+          
+
+          
+          
+          
+          
 
 ## Contatos:
 <div>
